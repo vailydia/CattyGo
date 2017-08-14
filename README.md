@@ -1,2 +1,2 @@
 # CattyGo
-A Transreality Game.
+A Trans-reality Game app.
